@@ -14,5 +14,6 @@ Insight: Years with significantly higher total selling prices indicate periods w
 3.Low and hign Number of Owners:-
 Insight: Brands with a higher average number of owners could imply that vehicles change hands more frequently, which may be due to various factors such as higher maintenance costs, quicker depreciation, or targeting a more transient customer base. For example, luxury brands like BMW or Mercedes might show a higher average number of owners, as these vehicles are often leased or resold after a few years.
 
-Conclusion
+Conclusion:-
+
 The dashboard serves as a powerful tool for making data-driven decisions. Whether you're a dealership manager looking to optimize inventory, a sales team tracking performance, or a customer comparing options, the insights provided will help you understand market dynamics, set competitive prices, and ultimately achieve your goals.
